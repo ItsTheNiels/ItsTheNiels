@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niels</h1>
-<h3 align="center">A full stack developer from the Netherlands</h3>
+Hi 👋, I'm Niels
+A full stack developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on **Clavis**
 
