@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Niels</h1>
 <h3>A full stack developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Clavis**
-
+- 🔭 I’m currently working on my owm projects.
 - 🌱 I’m currently learning **Laravel PHP**
 - 👯 I’m looking to collaborate on **more open source software.**
 
