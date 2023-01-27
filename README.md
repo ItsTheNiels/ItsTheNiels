@@ -1,5 +1,5 @@
-Hi 👋, I'm Niels
-A full stack developer from the Netherlands</h3>
+<h1>Hi 👋, I'm Niels</h1>
+<h3>A full stack developer from the Netherlands</h3>
 
 - 🔭 I’m currently working on **Clavis**
 
